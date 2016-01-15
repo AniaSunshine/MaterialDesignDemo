@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="MyThemeBlue"></style>
+
+    <!-- 蓝色为主色调 -->
+    <style name="MyThemeBlue" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--选中状态icon的颜色和字体颜色-->
+        <item name="colorPrimary">#00CED1</item>
+        <item name="colorPrimaryDark">#00F5FF</item>
+        <item name="colorAccent">#7EC0EE</item>
+        <!--正常状态下字体颜色和icon颜色-->
+        <item name="android:textColorPrimary">@color/nen_lv</item>
+    </style>
+
+</resources>
